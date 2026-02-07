@@ -1,0 +1,301 @@
+Partner_ID,Region,Partner_Tier,churn_probability,risk_tier,early_warning_flag,Manager_Priority,Top_Risk_Drivers,Recommended_Action
+PARTNER_0721,AMER,Silver,0.99544275,HIGH,1,High,"Days_Since_Last_Contact, Support_Tickets_Open, Unresolved_Disputes_Count",Schedule immediate check-in call
+PARTNER_0871,LATAM,Silver,0.98546326,HIGH,1,High,"Competitor_Mentioned, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0754,APAC,Bronze,0.98212427,HIGH,1,High,"Recent_Feedback_Sentiment, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0777,LATAM,Bronze,0.9693712,HIGH,1,High,"Region, Support_Tickets_Open, Unresolved_Disputes_Count",Address technical hurdles or support backlog
+PARTNER_0844,EMEA,Bronze,0.9677893,HIGH,1,High,"Recent_Feedback_Sentiment, Unresolved_Disputes_Count, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0964,AMER,Bronze,0.9661121,HIGH,1,High,"Days_Since_Last_Contact, Login_Trend_Index, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0863,APAC,Bronze,0.9609087,HIGH,1,High,"Referral_Growth_Rate, Recent_Feedback_Sentiment, Competitor_Mentioned",Resolve support issue and follow up
+PARTNER_0734,APAC,Bronze,0.95526606,HIGH,1,High,"Recent_Feedback_Sentiment, Unresolved_Disputes_Count, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0895,LATAM,Bronze,0.94428384,HIGH,1,High,"Days_Since_Last_Contact, Recent_Feedback_Sentiment, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0756,APAC,Silver,0.920513,HIGH,1,High,"Days_Since_Last_Contact, Support_Tickets_Open, Competitor_Mentioned",Schedule immediate check-in call
+PARTNER_0946,EMEA,Bronze,0.92039376,HIGH,1,High,"Recent_Feedback_Sentiment, Support_Tickets_Open, Unresolved_Disputes_Count",Resolve support issue and follow up
+PARTNER_0819,EMEA,Gold,0.9181177,HIGH,1,High,"Days_Since_Last_Contact, Login_Trend_Index, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0882,AMER,Bronze,0.9110345,HIGH,1,High,"Recent_Feedback_Sentiment, Support_Tickets_Open, Unresolved_Disputes_Count",Resolve support issue and follow up
+PARTNER_0930,AMER,Bronze,0.90711904,HIGH,1,High,"Recent_Feedback_Sentiment, Unresolved_Disputes_Count, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0794,EMEA,Bronze,0.8936612,HIGH,1,High,"Referral_Growth_Rate, Competitor_Mentioned, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0977,LATAM,Bronze,0.88189405,HIGH,1,High,"Region, Support_Tickets_Open, Unresolved_Disputes_Count",Address technical hurdles or support backlog
+PARTNER_0903,AMER,Bronze,0.87351716,HIGH,1,High,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0813,LATAM,Bronze,0.8509147,HIGH,1,High,"Days_Since_Last_Contact, Unresolved_Disputes_Count, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0748,EMEA,Bronze,0.84937763,HIGH,1,High,"Days_Since_Last_Contact, Support_Tickets_Open, Login_Trend_Index",Schedule immediate check-in call
+PARTNER_0992,APAC,Silver,0.8286804,HIGH,1,High,"Partner_Tier, Unresolved_Disputes_Count, Support_Tickets_Open",Address technical hurdles or support backlog
+PARTNER_0962,APAC,Silver,0.82684624,HIGH,1,High,"Recent_Feedback_Sentiment, Unresolved_Disputes_Count, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0995,EMEA,Bronze,0.78655475,HIGH,1,High,"Days_Since_Last_Contact, Login_Trend_Index, Competitor_Mentioned",Schedule immediate check-in call
+PARTNER_0887,APAC,Silver,0.7733578,HIGH,1,High,"Unresolved_Disputes_Count, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0805,LATAM,Bronze,0.75748473,HIGH,1,High,"Region, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0755,APAC,Bronze,0.73610604,MEDIUM,1,High,"Competitor_Mentioned, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0704,EMEA,Bronze,0.7210214,MEDIUM,1,Medium,"Support_Tickets_Open, Recent_Feedback_Sentiment, Unresolved_Disputes_Count",Resolve support issue and follow up
+PARTNER_0868,AMER,Silver,0.7031355,MEDIUM,1,High,"Recent_Feedback_Sentiment, Login_Trend_Index, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0852,EMEA,Bronze,0.6967831,MEDIUM,1,Medium,"Recent_Feedback_Sentiment, Support_Tickets_Open, Competitor_Mentioned",Resolve support issue and follow up
+PARTNER_0918,LATAM,Bronze,0.69228405,MEDIUM,1,Medium,"Recent_Feedback_Sentiment, Login_Trend_Index, Competitor_Mentioned",Resolve support issue and follow up
+PARTNER_0789,AMER,Gold,0.6858443,MEDIUM,1,High,"Unresolved_Disputes_Count, Region, Competitor_Mentioned",Monitor closely
+PARTNER_0775,EMEA,Silver,0.6845143,MEDIUM,1,High,"Referral_Growth_Rate, Competitor_Mentioned, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0733,LATAM,Gold,0.67239076,MEDIUM,1,High,"Login_Trend_Index, Region, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0732,EMEA,Silver,0.64790136,MEDIUM,0,Medium,"Unresolved_Disputes_Count, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0784,APAC,Silver,0.64108074,MEDIUM,0,Medium,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0703,LATAM,Silver,0.638804,MEDIUM,0,High,"Recent_Feedback_Sentiment, Region, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0770,EMEA,Bronze,0.6301082,MEDIUM,0,Medium,"Unresolved_Disputes_Count, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0872,APAC,Bronze,0.6068879,MEDIUM,0,Medium,"Unresolved_Disputes_Count, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0818,LATAM,Gold,0.5736227,MEDIUM,0,Medium,"Login_Trend_Index, Support_Tickets_Open, Unresolved_Disputes_Count",Re-engagement training or onboarding support
+PARTNER_0811,AMER,Bronze,0.52937233,MEDIUM,0,Medium,"Unresolved_Disputes_Count, Region, Support_Tickets_Open",Address technical hurdles or support backlog
+PARTNER_0759,AMER,Bronze,0.509738,MEDIUM,0,Medium,"Days_Since_Last_Contact, Support_Tickets_Open, Unresolved_Disputes_Count",Schedule immediate check-in call
+PARTNER_0705,EMEA,Bronze,0.49672875,MEDIUM,0,Medium,"Referral_Growth_Rate, Support_Tickets_Open, Competitor_Mentioned",Offer incentive or performance review
+PARTNER_0858,APAC,Silver,0.4870609,MEDIUM,0,Medium,"Unresolved_Disputes_Count, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0905,APAC,Bronze,0.42317414,LOW,0,Medium,"Days_Since_Last_Contact, Support_Tickets_Open, Login_Trend_Index",Schedule immediate check-in call
+PARTNER_0792,EMEA,Bronze,0.38313627,LOW,0,Medium,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0955,AMER,Bronze,0.38218313,LOW,0,Medium,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0997,LATAM,Bronze,0.3802168,LOW,0,Medium,"Region, Support_Tickets_Open, Unresolved_Disputes_Count",Address technical hurdles or support backlog
+PARTNER_0849,APAC,Gold,0.3797945,LOW,0,Medium,"Login_Trend_Index, Support_Tickets_Open, Unresolved_Disputes_Count",Re-engagement training or onboarding support
+PARTNER_0781,AMER,Bronze,0.36443642,LOW,0,Medium,"Login_Trend_Index, Unresolved_Disputes_Count, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0739,LATAM,Silver,0.34208736,LOW,0,Medium,"Region, Support_Tickets_Open, Unresolved_Disputes_Count",Address technical hurdles or support backlog
+PARTNER_0785,EMEA,Bronze,0.3412156,LOW,0,Medium,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0720,APAC,Bronze,0.28171757,LOW,0,Medium,"Unresolved_Disputes_Count, Support_Tickets_Open, Referral_Growth_Rate",Offer incentive or performance review
+PARTNER_0835,LATAM,Bronze,0.27563655,LOW,0,Medium,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0791,LATAM,Silver,0.2721335,LOW,0,Medium,"Region, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0774,APAC,Bronze,0.26204672,LOW,0,Medium,"Days_Since_Last_Contact, Unresolved_Disputes_Count, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0709,LATAM,Bronze,0.2545651,LOW,0,Medium,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0908,AMER,Bronze,0.24273862,LOW,0,Medium,"Support_Tickets_Open, Recent_Feedback_Sentiment, Unresolved_Disputes_Count",Resolve support issue and follow up
+PARTNER_0763,APAC,Bronze,0.2337831,LOW,0,Medium,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0870,EMEA,Bronze,0.22698991,LOW,0,Medium,"Login_Trend_Index, Support_Tickets_Open, Referral_Growth_Rate",Offer incentive or performance review
+PARTNER_0853,AMER,Bronze,0.20895596,LOW,0,Medium,"Support_Tickets_Open, Login_Trend_Index, Competitor_Mentioned",Re-engagement training or onboarding support
+PARTNER_0985,APAC,Silver,0.20648983,LOW,0,Medium,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0956,LATAM,Bronze,0.19453895,LOW,0,Medium,"Region, Support_Tickets_Open, Unresolved_Disputes_Count",Address technical hurdles or support backlog
+PARTNER_0949,EMEA,Bronze,0.1884126,LOW,0,Medium,"Referral_Growth_Rate, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0945,AMER,Silver,0.18501362,LOW,0,Medium,"Unresolved_Disputes_Count, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0795,AMER,Silver,0.18110116,LOW,0,Medium,"Referral_Growth_Rate, Unresolved_Disputes_Count, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0711,APAC,Bronze,0.1749002,LOW,0,Medium,"Recent_Feedback_Sentiment, Unresolved_Disputes_Count, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0889,EMEA,Bronze,0.1719258,LOW,0,Medium,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0788,LATAM,Gold,0.15321994,LOW,0,Medium,"Region, Support_Tickets_Open, Referral_Growth_Rate",Offer incentive or performance review
+PARTNER_0744,AMER,Bronze,0.1422076,LOW,0,Medium,"Unresolved_Disputes_Count, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0967,APAC,Bronze,0.13981466,LOW,0,Medium,"Days_Since_Last_Contact, Unresolved_Disputes_Count, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0988,APAC,Silver,0.13446493,LOW,0,Medium,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0891,AMER,Gold,0.12918325,LOW,0,Medium,"Years_In_Network, Unresolved_Disputes_Count, Support_Tickets_Open",Address technical hurdles or support backlog
+PARTNER_0936,APAC,Silver,0.1254063,LOW,0,Medium,"Days_Since_Last_Contact, Recent_Feedback_Sentiment, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0847,APAC,Silver,0.11731463,LOW,0,Medium,"Support_Tickets_Open, Recent_Feedback_Sentiment, Competitor_Mentioned",Resolve support issue and follow up
+PARTNER_0747,AMER,Gold,0.11032493,LOW,0,Medium,"Region, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0951,LATAM,Bronze,0.10971818,LOW,0,Medium,"Recent_Feedback_Sentiment, Referral_Growth_Rate, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0943,EMEA,Bronze,0.109227136,LOW,0,Medium,"Unresolved_Disputes_Count, Support_Tickets_Open, Login_Trend_Index",Re-engagement training or onboarding support
+PARTNER_0862,APAC,Bronze,0.10329066,LOW,0,Medium,"Days_Since_Last_Contact, Referral_Growth_Rate, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0970,LATAM,Bronze,0.10271739,LOW,0,Medium,"Support_Tickets_Open, Region, Days_Since_Last_Contact",Schedule immediate check-in call
+PARTNER_0821,LATAM,Silver,0.101288155,LOW,0,Medium,"Days_Since_Last_Contact, Region, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0881,APAC,Silver,0.095177814,LOW,0,Medium,"Unresolved_Disputes_Count, Years_In_Network, Support_Tickets_Open",Address technical hurdles or support backlog
+PARTNER_0910,AMER,Silver,0.094977565,LOW,0,Medium,"Dashboard_Usage_Minutes, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0879,EMEA,Bronze,0.09283438,LOW,0,Medium,"Unresolved_Disputes_Count, Support_Tickets_Open, Login_Trend_Index",Re-engagement training or onboarding support
+PARTNER_0994,LATAM,Bronze,0.090951025,LOW,0,Medium,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0859,AMER,Bronze,0.09077948,LOW,0,Medium,"Days_Since_Last_Contact, Region, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0993,LATAM,Gold,0.08935977,LOW,0,Medium,"Days_Since_Last_Contact, Referral_Growth_Rate, Region",Schedule immediate check-in call
+PARTNER_0915,APAC,Bronze,0.08797122,LOW,0,Medium,"Support_Tickets_Open, Recent_Feedback_Sentiment, Unresolved_Disputes_Count",Resolve support issue and follow up
+PARTNER_0890,AMER,Silver,0.08642259,LOW,0,Low,"Login_Trend_Index, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0783,LATAM,Gold,0.08240179,LOW,0,Low,"Region, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0716,AMER,Gold,0.08146272,LOW,0,Low,"Days_Since_Last_Contact, Unresolved_Disputes_Count, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0896,APAC,Bronze,0.07810759,LOW,0,Medium,"Days_Since_Last_Contact, Unresolved_Disputes_Count, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0817,AMER,Bronze,0.07475627,LOW,0,Low,"Referral_Growth_Rate, Unresolved_Disputes_Count, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0937,EMEA,Bronze,0.0742617,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Referral_Growth_Rate",Offer incentive or performance review
+PARTNER_0857,AMER,Bronze,0.072937906,LOW,0,Medium,"Recent_Feedback_Sentiment, Support_Tickets_Open, Referral_Growth_Rate",Resolve support issue and follow up
+PARTNER_0730,AMER,Bronze,0.07290483,LOW,0,Low,"Unresolved_Disputes_Count, Competitor_Mentioned, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0969,AMER,Bronze,0.07221437,LOW,0,Medium,"Support_Tickets_Open, Unresolved_Disputes_Count, Referral_Growth_Rate",Offer incentive or performance review
+PARTNER_0810,AMER,Gold,0.071999565,LOW,0,Medium,"Recent_Feedback_Sentiment, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0941,EMEA,Gold,0.06991683,LOW,0,Low,"Login_Trend_Index, Unresolved_Disputes_Count, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0856,AMER,Bronze,0.06833615,LOW,0,Low,"Login_Trend_Index, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0815,EMEA,Bronze,0.06508562,LOW,0,Low,"Unresolved_Disputes_Count, Years_In_Network, Support_Tickets_Open",Address technical hurdles or support backlog
+PARTNER_0746,AMER,Silver,0.059303444,LOW,0,Low,"Referral_Growth_Rate, Competitor_Mentioned, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0878,EMEA,Silver,0.058592685,LOW,0,Low,"Support_Tickets_Open, Days_Since_Last_Contact, Competitor_Mentioned",Schedule immediate check-in call
+PARTNER_0779,AMER,Bronze,0.05845555,LOW,0,Low,"Recent_Feedback_Sentiment, Referral_Growth_Rate, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0873,EMEA,Bronze,0.05797187,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Referral_Growth_Rate",Offer incentive or performance review
+PARTNER_0728,EMEA,Bronze,0.057797715,LOW,0,Low,"Referral_Volume_30d, Unresolved_Disputes_Count, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0957,EMEA,Bronze,0.057437714,LOW,0,Low,"Referral_Growth_Rate, Commission_Payout_Last_30d, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0841,LATAM,Bronze,0.056776747,LOW,0,Low,"Recent_Feedback_Sentiment, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0961,EMEA,Bronze,0.049536306,LOW,0,Low,"Days_Since_Last_Contact, Unresolved_Disputes_Count, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0762,EMEA,Silver,0.046478674,LOW,0,Low,"Recent_Feedback_Sentiment, Support_Tickets_Open, Login_Trend_Index",Resolve support issue and follow up
+PARTNER_0799,AMER,Bronze,0.045000438,LOW,0,Low,"Dashboard_Usage_Minutes, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0940,LATAM,Bronze,0.043780494,LOW,0,Low,"Region, Referral_Growth_Rate, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0840,AMER,Silver,0.04372851,LOW,0,Low,"Referral_Growth_Rate, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0942,LATAM,Bronze,0.04371157,LOW,0,Low,"Region, Unresolved_Disputes_Count, Support_Tickets_Open",Address technical hurdles or support backlog
+PARTNER_0738,EMEA,Bronze,0.043520894,LOW,0,Low,"Unresolved_Disputes_Count, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0752,APAC,Silver,0.04099004,LOW,0,Low,"Recent_Feedback_Sentiment, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0980,LATAM,Bronze,0.039320856,LOW,0,Low,"Recent_Feedback_Sentiment, Support_Tickets_Open, Competitor_Mentioned",Resolve support issue and follow up
+PARTNER_0820,AMER,Silver,0.036027562,LOW,0,Low,"Recent_Feedback_Sentiment, Login_Trend_Index, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0954,AMER,Gold,0.035278756,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Referral_Growth_Rate",Offer incentive or performance review
+PARTNER_0876,APAC,Bronze,0.030868957,LOW,0,Low,"Recent_Feedback_Sentiment, Support_Tickets_Open, Referral_Growth_Rate",Resolve support issue and follow up
+PARTNER_0824,LATAM,Bronze,0.03002449,LOW,0,Low,"Recent_Feedback_Sentiment, Login_Trend_Index, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0760,LATAM,Silver,0.029428115,LOW,0,Low,"Unresolved_Disputes_Count, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0806,LATAM,Bronze,0.029140055,LOW,0,Low,"Support_Tickets_Open, Referral_Growth_Rate, Unresolved_Disputes_Count",Offer incentive or performance review
+PARTNER_0823,AMER,Silver,0.028131228,LOW,0,Low,"Referral_Growth_Rate, Competitor_Mentioned, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0968,APAC,Bronze,0.027613513,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Referral_Growth_Rate",Offer incentive or performance review
+PARTNER_0875,AMER,Bronze,0.027366897,LOW,0,Low,"Referral_Growth_Rate, Dashboard_Usage_Minutes, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0848,AMER,Bronze,0.026402116,LOW,0,Low,"Days_Since_Last_Contact, Support_Tickets_Open, Referral_Growth_Rate",Schedule immediate check-in call
+PARTNER_0786,AMER,Gold,0.025694458,LOW,0,Low,"Login_Trend_Index, Unresolved_Disputes_Count, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0944,EMEA,Bronze,0.02520335,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Login_Trend_Index",Re-engagement training or onboarding support
+PARTNER_0933,EMEA,Bronze,0.024386283,LOW,0,Low,"Login_Trend_Index, Unresolved_Disputes_Count, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0722,LATAM,Bronze,0.023872886,LOW,0,Low,"Recent_Feedback_Sentiment, Region, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0710,AMER,Bronze,0.02363187,LOW,0,Low,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0874,APAC,Silver,0.023593258,LOW,0,Low,"Unresolved_Disputes_Count, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0757,AMER,Bronze,0.023361886,LOW,0,Low,"Region, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0764,EMEA,Gold,0.023262912,LOW,0,Low,"Referral_Growth_Rate, Unresolved_Disputes_Count, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0907,AMER,Bronze,0.022696603,LOW,0,Low,"Days_Since_Last_Contact, Support_Tickets_Open, Login_Trend_Index",Schedule immediate check-in call
+PARTNER_0719,LATAM,Silver,0.022516781,LOW,0,Low,"Recent_Feedback_Sentiment, Region, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0865,EMEA,Silver,0.021580147,LOW,0,Low,"Days_Since_Last_Contact, Unresolved_Disputes_Count, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0976,LATAM,Bronze,0.0214953,LOW,0,Low,"Login_Trend_Index, Region, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0869,APAC,Silver,0.01957892,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0802,EMEA,Gold,0.019306872,LOW,0,Low,"Login_Trend_Index, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0737,EMEA,Bronze,0.019221595,LOW,0,Low,"Referral_Growth_Rate, Unresolved_Disputes_Count, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0884,LATAM,Bronze,0.0192185,LOW,0,Low,"Unresolved_Disputes_Count, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0771,EMEA,Bronze,0.017695872,LOW,0,Low,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0808,APAC,Silver,0.017671924,LOW,0,Low,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0830,EMEA,Bronze,0.01731626,LOW,0,Low,"Days_Since_Last_Contact, Login_Trend_Index, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0751,EMEA,Bronze,0.017298613,LOW,0,Low,"Referral_Growth_Rate, Login_Trend_Index, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0758,EMEA,Gold,0.017089667,LOW,0,Low,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0909,APAC,Bronze,0.016970683,LOW,0,Low,"Recent_Feedback_Sentiment, Referral_Growth_Rate, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0917,LATAM,Silver,0.016710069,LOW,0,Low,"Region, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0999,AMER,Bronze,0.016125077,LOW,0,Low,"Recent_Feedback_Sentiment, Unresolved_Disputes_Count, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0899,AMER,Bronze,0.015689874,LOW,0,Low,"Recent_Feedback_Sentiment, Unresolved_Disputes_Count, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0975,APAC,Bronze,0.015606017,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0996,EMEA,Bronze,0.015576292,LOW,0,Low,"Recent_Feedback_Sentiment, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0776,EMEA,Silver,0.015546407,LOW,0,Low,"Recent_Feedback_Sentiment, Commission_Payout_Last_30d, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0986,LATAM,Silver,0.015134772,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Region",Address technical hurdles or support backlog
+PARTNER_0916,APAC,Gold,0.014837245,LOW,0,Low,"Referral_Growth_Rate, Unresolved_Disputes_Count, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0929,EMEA,Bronze,0.014720471,LOW,0,Low,"Unresolved_Disputes_Count, Commission_Payout_Last_30d, Support_Tickets_Open",Address technical hurdles or support backlog
+PARTNER_0708,LATAM,Silver,0.014562509,LOW,0,Low,"Partner_Tier, Unresolved_Disputes_Count, Support_Tickets_Open",Address technical hurdles or support backlog
+PARTNER_0953,LATAM,Bronze,0.014401674,LOW,0,Low,"Recent_Feedback_Sentiment, Support_Tickets_Open, Login_Trend_Index",Resolve support issue and follow up
+PARTNER_0960,EMEA,Silver,0.014215749,LOW,0,Low,"Referral_Growth_Rate, Competitor_Mentioned, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0814,LATAM,Bronze,0.013477788,LOW,0,Low,"Login_Trend_Index, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0901,LATAM,Silver,0.013466648,LOW,0,Low,"Recent_Feedback_Sentiment, Support_Tickets_Open, Referral_Growth_Rate",Resolve support issue and follow up
+PARTNER_0925,AMER,Bronze,0.013294607,LOW,0,Low,"Region, Support_Tickets_Open, Login_Trend_Index",Re-engagement training or onboarding support
+PARTNER_0991,LATAM,Silver,0.012786317,LOW,0,Low,"Login_Trend_Index, Unresolved_Disputes_Count, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0803,EMEA,Bronze,0.01234165,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0912,EMEA,Silver,0.011905128,LOW,0,Low,"Support_Tickets_Open, Unresolved_Disputes_Count, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0804,APAC,Bronze,0.011854941,LOW,0,Low,"Unresolved_Disputes_Count, Login_Trend_Index, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0727,AMER,Silver,0.011431803,LOW,0,Low,"Unresolved_Disputes_Count, Region, Support_Tickets_Open",Address technical hurdles or support backlog
+PARTNER_0913,APAC,Gold,0.011283354,LOW,0,Low,"Unresolved_Disputes_Count, Competitor_Mentioned, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0998,LATAM,Silver,0.011188941,LOW,0,Low,"Referral_Growth_Rate, Login_Trend_Index, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0939,APAC,Bronze,0.010936027,LOW,0,Low,"Days_Since_Last_Contact, Unresolved_Disputes_Count, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0947,LATAM,Bronze,0.010934708,LOW,0,Low,"Recent_Feedback_Sentiment, Support_Tickets_Open, Login_Trend_Index",Resolve support issue and follow up
+PARTNER_0772,EMEA,Bronze,0.010898796,LOW,0,Low,"Referral_Growth_Rate, Support_Tickets_Open, Login_Trend_Index",Offer incentive or performance review
+PARTNER_0735,AMER,Silver,0.010888391,LOW,0,Low,"Commission_Payout_Last_30d, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0826,AMER,Silver,0.010784811,LOW,0,Low,"Commission_Payout_Last_30d, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0801,APAC,Bronze,0.010684288,LOW,0,Low,"Login_Trend_Index, Unresolved_Disputes_Count, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0827,APAC,Bronze,0.0105713215,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Referral_Growth_Rate",Offer incentive or performance review
+PARTNER_0959,AMER,Bronze,0.010218218,LOW,0,Low,"Referral_Growth_Rate, Login_Trend_Index, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0900,EMEA,Silver,0.010100546,LOW,0,Low,"Recent_Feedback_Sentiment, Unresolved_Disputes_Count, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0767,LATAM,Bronze,0.009972561,LOW,0,Low,"Region, Unresolved_Disputes_Count, Support_Tickets_Open",Address technical hurdles or support backlog
+PARTNER_0965,EMEA,Gold,0.009923017,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0729,LATAM,Bronze,0.009265487,LOW,0,Low,"Commission_Payout_Last_30d, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0707,LATAM,Bronze,0.00875253,LOW,0,Low,"Unresolved_Disputes_Count, Region, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0793,LATAM,Bronze,0.008618147,LOW,0,Low,"Support_Tickets_Open, Region, Referral_Growth_Rate",Offer incentive or performance review
+PARTNER_0773,LATAM,Gold,0.008200171,LOW,0,Low,"Referral_Growth_Rate, Support_Tickets_Open, Login_Trend_Index",Offer incentive or performance review
+PARTNER_0812,EMEA,Bronze,0.007686597,LOW,0,Low,"Login_Freq_Last_30d, Support_Tickets_Open, Login_Trend_Index",Re-engagement training or onboarding support
+PARTNER_0723,EMEA,Bronze,0.007189512,LOW,0,Low,"Support_Tickets_Open, Unresolved_Disputes_Count, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0838,LATAM,Gold,0.0065461732,LOW,0,Low,"Referral_Growth_Rate, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0990,APAC,Silver,0.0065199817,LOW,0,Low,"Referral_Growth_Rate, Login_Trend_Index, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0753,APAC,Silver,0.0064493218,LOW,0,Low,"Referral_Growth_Rate, Login_Trend_Index, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0972,EMEA,Bronze,0.0064276825,LOW,0,Low,"Login_Trend_Index, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0860,LATAM,Bronze,0.006387652,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0742,APAC,Bronze,0.00626643,LOW,0,Low,"Support_Tickets_Open, Login_Trend_Index, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0736,LATAM,Bronze,0.0062641683,LOW,0,Low,"Referral_Growth_Rate, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0932,EMEA,Bronze,0.0057946728,LOW,0,Low,"Referral_Growth_Rate, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0921,AMER,Bronze,0.005622003,LOW,0,Low,"Support_Tickets_Open, Referral_Growth_Rate, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0842,EMEA,Bronze,0.005534419,LOW,0,Low,"Days_Since_Last_Contact, Unresolved_Disputes_Count, Recent_Feedback_Sentiment",Schedule immediate check-in call
+PARTNER_0765,AMER,Gold,0.0052673793,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0701,LATAM,Gold,0.005234837,LOW,0,Low,"Days_Since_Last_Contact, Referral_Growth_Rate, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0924,EMEA,Bronze,0.005151726,LOW,0,Low,"Support_Tickets_Open, Recent_Feedback_Sentiment, Unresolved_Disputes_Count",Resolve support issue and follow up
+PARTNER_0829,LATAM,Bronze,0.004950637,LOW,0,Low,"Region, Support_Tickets_Open, Login_Trend_Index",Re-engagement training or onboarding support
+PARTNER_0766,EMEA,Silver,0.0048981584,LOW,0,Low,"Support_Tickets_Open, Unresolved_Disputes_Count, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0700,APAC,Bronze,0.0048412452,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0971,AMER,Bronze,0.0048205927,LOW,0,Low,"Login_Trend_Index, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0906,APAC,Bronze,0.0048168357,LOW,0,Low,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0790,APAC,Silver,0.0047753877,LOW,0,Low,"Referral_Growth_Rate, Competitor_Mentioned, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0893,EMEA,Bronze,0.004749041,LOW,0,Low,"Referral_Growth_Rate, Support_Tickets_Open, Login_Trend_Index",Offer incentive or performance review
+PARTNER_0828,AMER,Bronze,0.0045530847,LOW,0,Low,"Days_Since_Last_Contact, Login_Trend_Index, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0989,LATAM,Bronze,0.004545758,LOW,0,Low,"Days_Since_Last_Contact, Region, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0780,EMEA,Bronze,0.0044334703,LOW,0,Low,"Recent_Feedback_Sentiment, Unresolved_Disputes_Count, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0978,LATAM,Bronze,0.00414232,LOW,0,Low,"Region, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0984,LATAM,Silver,0.0038666406,LOW,0,Low,"Unresolved_Disputes_Count, Login_Trend_Index, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0911,EMEA,Silver,0.0037380103,LOW,0,Low,"Days_Since_Last_Contact, Login_Trend_Index, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0934,LATAM,Silver,0.00367453,LOW,0,Low,"Days_Since_Last_Contact, Competitor_Mentioned, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0864,LATAM,Bronze,0.0035980307,LOW,0,Low,"Days_Since_Last_Contact, Competitor_Mentioned, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0979,APAC,Bronze,0.0035574262,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0897,LATAM,Silver,0.0034469536,LOW,0,Low,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0851,APAC,Bronze,0.0033284018,LOW,0,Low,"Unresolved_Disputes_Count, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0750,LATAM,Bronze,0.0030949311,LOW,0,Low,"Support_Tickets_Open, Region, Referral_Growth_Rate",Offer incentive or performance review
+PARTNER_0787,LATAM,Silver,0.0030862908,LOW,0,Low,"Unresolved_Disputes_Count, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0713,LATAM,Bronze,0.0028421853,LOW,0,Low,"Unresolved_Disputes_Count, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0740,AMER,Bronze,0.0027892457,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0883,LATAM,Silver,0.0027396362,LOW,0,Low,"Login_Trend_Index, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0931,LATAM,Bronze,0.002702069,LOW,0,Low,"Referral_Growth_Rate, Support_Tickets_Open, Login_Trend_Index",Offer incentive or performance review
+PARTNER_0816,EMEA,Bronze,0.002618001,LOW,0,Low,"Referral_Growth_Rate, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0714,LATAM,Bronze,0.0025999052,LOW,0,Low,"Region, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0741,APAC,Bronze,0.0025884544,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0769,EMEA,Silver,0.0025536413,LOW,0,Low,"Unresolved_Disputes_Count, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0888,LATAM,Bronze,0.0024668223,LOW,0,Low,"Support_Tickets_Open, Unresolved_Disputes_Count, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0839,EMEA,Gold,0.00230056,LOW,0,Low,"Days_Since_Last_Contact, Recent_Feedback_Sentiment, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0717,LATAM,Bronze,0.0022530712,LOW,0,Low,"Support_Tickets_Open, Region, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0877,APAC,Bronze,0.002200246,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0832,AMER,Silver,0.0020499425,LOW,0,Low,"Unresolved_Disputes_Count, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0867,APAC,Bronze,0.0020437576,LOW,0,Low,"Recent_Feedback_Sentiment, Unresolved_Disputes_Count, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0798,EMEA,Bronze,0.0020351047,LOW,0,Low,"Recent_Feedback_Sentiment, Unresolved_Disputes_Count, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0898,AMER,Bronze,0.002003503,LOW,0,Low,"Unresolved_Disputes_Count, Commission_Payout_Last_30d, Support_Tickets_Open",Address technical hurdles or support backlog
+PARTNER_0914,LATAM,Bronze,0.0019424879,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0950,AMER,Bronze,0.001797521,LOW,0,Low,"Competitor_Mentioned, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0745,APAC,Bronze,0.001763056,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0837,EMEA,Bronze,0.0017348108,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0987,LATAM,Bronze,0.0017109637,LOW,0,Low,"Region, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0834,EMEA,Bronze,0.0016926151,LOW,0,Low,"Referral_Growth_Rate, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0797,AMER,Silver,0.0016422488,LOW,0,Low,"Region, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0712,EMEA,Silver,0.0016209935,LOW,0,Low,"Dashboard_Usage_Minutes, Unresolved_Disputes_Count, Support_Tickets_Open",Address technical hurdles or support backlog
+PARTNER_0807,EMEA,Bronze,0.0016208206,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0854,AMER,Bronze,0.001601251,LOW,0,Low,"Login_Trend_Index, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0958,APAC,Silver,0.0015486026,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0963,AMER,Bronze,0.0014599201,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Login_Trend_Index",Re-engagement training or onboarding support
+PARTNER_0927,LATAM,Bronze,0.0014452304,LOW,0,Low,"Days_Since_Last_Contact, Support_Tickets_Open, Login_Trend_Index",Schedule immediate check-in call
+PARTNER_0982,LATAM,Bronze,0.001424916,LOW,0,Low,"Region, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0800,EMEA,Gold,0.0013942582,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0822,APAC,Bronze,0.0013723086,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0809,EMEA,Bronze,0.0013360834,LOW,0,Low,"Unresolved_Disputes_Count, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0923,AMER,Silver,0.0013258341,LOW,0,Low,"Dashboard_Usage_Minutes, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0920,EMEA,Silver,0.0012737755,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0731,EMEA,Silver,0.0012417395,LOW,0,Low,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0855,EMEA,Bronze,0.0012314339,LOW,0,Low,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0885,EMEA,Silver,0.0012092319,LOW,0,Low,"Unresolved_Disputes_Count, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0718,LATAM,Bronze,0.0011940753,LOW,0,Low,"Region, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0880,EMEA,Silver,0.001162705,LOW,0,Low,"Days_Since_Last_Contact, Unresolved_Disputes_Count, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0833,LATAM,Bronze,0.0011502397,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0768,LATAM,Bronze,0.0011118043,LOW,0,Low,"Region, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0726,AMER,Silver,0.0011043482,LOW,0,Low,"Login_Freq_Last_30d, Unresolved_Disputes_Count, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0825,LATAM,Silver,0.0010978271,LOW,0,Low,"Days_Since_Last_Contact, Login_Trend_Index, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0973,AMER,Bronze,0.0010789484,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0743,EMEA,Bronze,0.0009234573,LOW,0,Low,"Recent_Feedback_Sentiment, Login_Trend_Index, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0894,LATAM,Silver,0.0009193877,LOW,0,Low,"Support_Tickets_Open, Region, Login_Trend_Index",Re-engagement training or onboarding support
+PARTNER_0981,LATAM,Silver,0.00082854717,LOW,0,Low,"Unresolved_Disputes_Count, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0974,LATAM,Silver,0.0008182657,LOW,0,Low,"Unresolved_Disputes_Count, Region, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0702,EMEA,Gold,0.00081628416,LOW,0,Low,"Referral_Growth_Rate, Login_Trend_Index, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0926,EMEA,Gold,0.0008148413,LOW,0,Low,"Days_Since_Last_Contact, Login_Trend_Index, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0892,EMEA,Silver,0.00078203506,LOW,0,Low,"Referral_Growth_Rate, Login_Trend_Index, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0850,AMER,Bronze,0.00078012137,LOW,0,Low,"Unresolved_Disputes_Count, Commission_Payout_Last_30d, Support_Tickets_Open",Address technical hurdles or support backlog
+PARTNER_0715,LATAM,Silver,0.0007726965,LOW,0,Low,"Region, Referral_Growth_Rate, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0861,EMEA,Silver,0.00077239395,LOW,0,Low,"Referral_Growth_Rate, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0948,APAC,Bronze,0.00072931877,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0845,EMEA,Bronze,0.00072416605,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Login_Trend_Index",Re-engagement training or onboarding support
+PARTNER_0886,EMEA,Bronze,0.000715122,LOW,0,Low,"Login_Trend_Index, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0796,EMEA,Silver,0.0006617261,LOW,0,Low,"Unresolved_Disputes_Count, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0778,LATAM,Silver,0.00065225933,LOW,0,Low,"Referral_Growth_Rate, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0761,APAC,Bronze,0.0006182012,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0782,LATAM,Bronze,0.00059752923,LOW,0,Low,"Region, Login_Trend_Index, Support_Tickets_Open",Re-engagement training or onboarding support
+PARTNER_0938,APAC,Silver,0.0005908351,LOW,0,Low,"Support_Tickets_Open, Referral_Growth_Rate, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0952,EMEA,Bronze,0.0005532053,LOW,0,Low,"Referral_Growth_Rate, Unresolved_Disputes_Count, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0706,LATAM,Bronze,0.0005441998,LOW,0,Low,"Referral_Growth_Rate, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0902,APAC,Gold,0.00053177547,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0928,APAC,Bronze,0.0005317742,LOW,0,Low,"Commission_Payout_Last_30d, Days_Since_Last_Contact, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0846,APAC,Silver,0.00052518694,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0724,EMEA,Bronze,0.0005012942,LOW,0,Low,"Support_Tickets_Open, Referral_Growth_Rate, Login_Trend_Index",Offer incentive or performance review
+PARTNER_0843,AMER,Bronze,0.00048786408,LOW,0,Low,"Unresolved_Disputes_Count, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0922,EMEA,Gold,0.00030628513,LOW,0,Low,"Days_Since_Last_Contact, Referral_Growth_Rate, Support_Tickets_Open",Schedule immediate check-in call
+PARTNER_0866,EMEA,Bronze,0.00029174477,LOW,0,Low,"Referral_Growth_Rate, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0749,APAC,Bronze,0.00027793422,LOW,0,Low,"Referral_Growth_Rate, Login_Trend_Index, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0966,EMEA,Bronze,0.00027323226,LOW,0,Low,"Unresolved_Disputes_Count, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0919,LATAM,Bronze,0.00025588443,LOW,0,Low,"Login_Trend_Index, Referral_Growth_Rate, Support_Tickets_Open",Offer incentive or performance review
+PARTNER_0904,AMER,Bronze,0.00022756458,LOW,0,Low,"Login_Trend_Index, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0836,AMER,Silver,0.00020548538,LOW,0,Low,"Recent_Feedback_Sentiment, Referral_Growth_Rate, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0935,EMEA,Gold,0.00019450096,LOW,0,Low,"Referral_Growth_Rate, Support_Tickets_Open, Recent_Feedback_Sentiment",Resolve support issue and follow up
+PARTNER_0983,EMEA,Gold,0.00015394225,LOW,0,Low,"Recent_Feedback_Sentiment, Referral_Growth_Rate, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0725,EMEA,Bronze,0.00015033915,LOW,0,Low,"Referral_Growth_Rate, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
+PARTNER_0831,EMEA,Bronze,8.7486726e-05,LOW,0,Low,"Login_Trend_Index, Recent_Feedback_Sentiment, Support_Tickets_Open",Resolve support issue and follow up
