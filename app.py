@@ -78,7 +78,7 @@ def generate_ai_response(partner_data, strategy_type):
 # ... (Existing load_data and Sidebar code) ...
 
 # 1. SETUP & STYLE
-st.set_page_config(page_title="Partner Guard AI", layout="wide", page_icon="🛡️")
+st.set_page_config(page_title="Churn Prediction", layout="wide", page_icon="🛡️")
 
 # Custom CSS for "Pro" Look
 st.markdown("""
@@ -228,3 +228,4 @@ with tab3:
         text_auto='.0%', color_continuous_scale="Reds", title="Risk Concentration"
     )
     st.plotly_chart(fig, use_container_width=True)
+
